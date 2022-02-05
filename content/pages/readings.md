@@ -53,18 +53,201 @@ The development presented in the course is closer to that of Anand Pillay's "Fo
 {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | The Basic Setting: Universal Domains | Ben-Yaacov, Itay. "Positive Model Theory and Compact Abstract Theories." _Journal_ _of Mathematical Logic_ 3, no. 1 (2003): 85–118. |
-| 2 | Extraction of Indiscernible Sequences  {{< br >}}(Taught by David K. Milovich) |  |
-| 3 | Dividing and its Basic Properties |  |
-| 4 | Simplicity  {{< br >}}  {{< br >}}Statement of the Properties of Independence  {{< br >}}  {{< br >}}Morley Sequences  {{< br >}}  {{< br >}}Proof of Symmetry and Transitivity from Extension |  |
-| 5 | Thickness  {{< br >}}  {{< br >}}Total D-rank and Extension | Ben-Yaacov, Itay. "Thickness, and A Categoric View of Type-space Functors." _Fundamenta Mathematicae_ 179 (2003): 199–224. |
-| 6 | Lascar Strong Types and the Independence Theorem  {{< br >}}(Partially taught by Christina Goddard) | Ben-Yaacov, Itay. "Simplicity in Compact Abstract Theories." _Journal of Mathematical Logic_ 3, no. 2 (2003): 163–191.  {{< br >}}  {{< br >}}Or,  {{< br >}}  {{< br >}}Pillay, Anand. "Forking in the Category of Existentially Closed Structures." In _Connections between Model Theory and Algebraic and Analytic Geometry._ Edited by Angus Macintyre. Vol. 6, _Quaderni di Matematica._ University of Naples, 2000. |
-| 7 | Examples: Hilbert Spaces, Hyperimaginary Sorts  {{< br >}}(Taught by Josh Nichols-Barrer) |  |
-| 8 | Generically Transitive Relations  {{< br >}}  {{< br >}}Amalgamation Bases, Parallelism and Canonical Bases |  |
-| 9 | Characterisation of Simplicity and Non-dividing in Terms of Abstract Notion of Independence  {{< br >}}(Taught by Cameron Freer) |  |
-| 10 | Supersimplicity  {{< br >}}  {{< br >}}Lascar Inequalities  {{< br >}}  {{< br >}}Stability |  |
-| 11-12 | Stable Theories with a Generic Automorphism | Chatzidakis, Zoë, and Anand Pillay. "Generic Structures and Simple Theories." _Annals of Pure and Applied Logic_ 95 (1998): 71–92. |
-| 13-14 | Groups: Stratified Ranks, Generic Elements and Types  {{< br >}}  {{< br >}}Connected Components, Stabilisers |  |
-| 15-16 | Lovely Pairs | Ben-Yaacov, Itay. "Lovely Pairs of Models: The Non First Order Case." _Journal of Symbolic Logic_ 69, no. 3 (2004): 641–662.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basic Setting: Universal Domains
+{{< tdclose >}}
+{{< tdopen >}}
+Ben-Yaacov, Itay. "Positive Model Theory and Compact Abstract Theories." _Journal_ _of Mathematical Logic_ 3, no. 1 (2003): 85–118.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Extraction of Indiscernible Sequences  
+(Taught by David K. Milovich)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dividing and its Basic Properties
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Simplicity  
+  
+Statement of the Properties of Independence  
+  
+Morley Sequences  
+  
+Proof of Symmetry and Transitivity from Extension
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Thickness  
+  
+Total D-rank and Extension
+{{< tdclose >}}
+{{< tdopen >}}
+Ben-Yaacov, Itay. "Thickness, and A Categoric View of Type-space Functors." _Fundamenta Mathematicae_ 179 (2003): 199–224.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lascar Strong Types and the Independence Theorem  
+(Partially taught by Christina Goddard)
+{{< tdclose >}}
+{{< tdopen >}}
+Ben-Yaacov, Itay. "Simplicity in Compact Abstract Theories." _Journal of Mathematical Logic_ 3, no. 2 (2003): 163–191.  
+  
+Or,  
+  
+Pillay, Anand. "Forking in the Category of Existentially Closed Structures." In _Connections between Model Theory and Algebraic and Analytic Geometry._ Edited by Angus Macintyre. Vol. 6, _Quaderni di Matematica._ University of Naples, 2000.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Examples: Hilbert Spaces, Hyperimaginary Sorts  
+(Taught by Josh Nichols-Barrer)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Generically Transitive Relations  
+  
+Amalgamation Bases, Parallelism and Canonical Bases
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Characterisation of Simplicity and Non-dividing in Terms of Abstract Notion of Independence  
+(Taught by Cameron Freer)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Supersimplicity  
+  
+Lascar Inequalities  
+  
+Stability
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Stable Theories with a Generic Automorphism
+{{< tdclose >}}
+{{< tdopen >}}
+Chatzidakis, Zoë, and Anand Pillay. "Generic Structures and Simple Theories." _Annals of Pure and Applied Logic_ 95 (1998): 71–92.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Groups: Stratified Ranks, Generic Elements and Types  
+  
+Connected Components, Stabilisers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Lovely Pairs
+{{< tdclose >}}
+{{< tdopen >}}
+Ben-Yaacov, Itay. "Lovely Pairs of Models: The Non First Order Case." _Journal of Symbolic Logic_ 69, no. 3 (2004): 641–662.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

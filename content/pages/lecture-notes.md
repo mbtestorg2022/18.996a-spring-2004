@@ -6,18 +6,197 @@ uid: 240eb8d5-6b49-8083-eff8-498e824784bb
 
 The handwritten lecture notes are provided courtesy Christina Goddard, a student in the class. Used with permission.
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | The Basic Setting: Universal Domains | ([PDF]({{< baseurl >}}/resources/lec_1)) |
-| 2 | Extraction of Indiscernible Sequences  {{< br >}}(Taught by David K. Milovich) | ([PDF]({{< baseurl >}}/resources/lec_2)) |
-| 3 | Dividing and its Basic Properties | ([PDF]({{< baseurl >}}/resources/lec_3)) |
-| 4 | Simplicity  {{< br >}}  {{< br >}}Statement of the Properties of Independence  {{< br >}}  {{< br >}}Morley Sequences  {{< br >}}  {{< br >}}Proof of Symmetry and Transitivity from Extension | ([PDF]({{< baseurl >}}/resources/lec_4)) |
-| 5 | Thickness  {{< br >}}  {{< br >}}Total D-rank and Extension | ([PDF]({{< baseurl >}}/resources/lec_5)) |
-| 6 | Lascar Strong Types and the Independence Theorem  {{< br >}}(Partially taught by Christina Goddard) | ([PDF]({{< baseurl >}}/resources/lec_6)) |
-| 7 | Examples: Hilbert Spaces, Hyperimaginary Sorts  {{< br >}}(Taught by Josh Nichols-Barrer) | ([PDF]({{< baseurl >}}/resources/lec_7)) |
-| 8 | Generically Transitive Relations  {{< br >}}  {{< br >}}Amalgamation Bases, Parallelism and Canonical Bases | ([PDF]({{< baseurl >}}/resources/lec_8)) |
-| 9 | Characterisation of Simplicity and Non-dividing in Terms of Abstract Notion of Independence  {{< br >}}(Taught by Cameron Freer) | ([PDF]({{< baseurl >}}/resources/lec_9)) |
-| 10 | Supersimplicity  {{< br >}}  {{< br >}}Lascar Inequalities  {{< br >}}  {{< br >}}Stability | ([PDF]({{< baseurl >}}/resources/lec_10)) |
-| 11-12 | Stable Theories with a Generic Automorphism | ([PDF]({{< baseurl >}}/resources/lec11_12)) |
-| 13-14 | Groups: Stratified Ranks, Generic Elements and Types  {{< br >}}  {{< br >}}Connected Components, Stabilisers | ([PDF]({{< baseurl >}}/resources/lec13_14)) |
-| 15-16 | Lovely Pairs | ([PDF]({{< baseurl >}}/resources/lec15_16))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basic Setting: Universal Domains
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Extraction of Indiscernible Sequences  
+(Taught by David K. Milovich)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dividing and its Basic Properties
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Simplicity  
+  
+Statement of the Properties of Independence  
+  
+Morley Sequences  
+  
+Proof of Symmetry and Transitivity from Extension
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Thickness  
+  
+Total D-rank and Extension
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lascar Strong Types and the Independence Theorem  
+(Partially taught by Christina Goddard)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Examples: Hilbert Spaces, Hyperimaginary Sorts  
+(Taught by Josh Nichols-Barrer)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Generically Transitive Relations  
+  
+Amalgamation Bases, Parallelism and Canonical Bases
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Characterisation of Simplicity and Non-dividing in Terms of Abstract Notion of Independence  
+(Taught by Cameron Freer)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Supersimplicity  
+  
+Lascar Inequalities  
+  
+Stability
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Stable Theories with a Generic Automorphism
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec11_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Groups: Stratified Ranks, Generic Elements and Types  
+  
+Connected Components, Stabilisers
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec13_14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Lovely Pairs
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec15_16))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
